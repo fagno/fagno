@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Mestre em Modelagem Computacional de Sistemas pela [Universidade Federal do Tocantins (2015)](https://ww2.uft.edu.br), possui graduação em Sistemas de Informação (2007) e pós-graduação em Gestão do Conhecimento e da Tecnologia de Informação (2010) pela Faculdade de Ciências Humanas, Econômicas e da Saúde de Araguaína - FAHESA. Atualmente é professor efetivo da área de informática do [Instituto Federal de Educação, Ciência e Tecnologia do Tocantins - IFTO](http://ifto.edu.br)
+
+### Contribution Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fagno&show_icons=true&theme=highcontrast" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagno&layout=compact&show_icons=true&&theme=highcontrast" height="195px"/>
+</p>
