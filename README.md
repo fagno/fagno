@@ -21,5 +21,5 @@ Mestre em Modelagem Computacional de Sistemas pela [Universidade Federal do Toca
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fagno&show_icons=true&theme=highcontrast" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagno&layout=compact&show_icons=true&&theme=highcontrast" height="165px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fagno&layout=compact&show_icons=true&&theme=highcontrast" height="165px"/>
 </p>
